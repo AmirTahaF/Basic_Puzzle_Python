@@ -1,4 +1,4 @@
-# 🧩 Python Puzzles Collection
+# Python Puzzles Collection
 
 Welcome to **Python Puzzles Collection**!  
 This repository contains a variety of **fun and challenging Python puzzles** — all written in the **simplest form** so you can learn, practice, and solve them easily.  
